@@ -2,7 +2,7 @@ import sublime, sublime_plugin
 import pprint, subprocess, re
 from pprint import pprint
 
-class CollapseFolders(sublime_plugin.TextCommand):
+class CollapseFoldersCommand(sublime_plugin.TextCommand):
   def run(self, edit):
     subprocess.Popen(
       [
