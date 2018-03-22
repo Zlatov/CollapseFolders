@@ -1,0 +1,9 @@
+[
+  {
+    "caption": "-",
+  },
+  {
+    "caption": "Collapse folders",
+    "command": "collapse_folders"
+  }
+]
