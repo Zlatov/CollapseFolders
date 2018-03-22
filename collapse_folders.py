@@ -12,9 +12,10 @@ class CollapseFoldersCommand(sublime_plugin.TextCommand):
           sleep .1 &&
           xdotool key Ctrl+0 &&
           xdotool key Page_Up Page_Up Page_Up Page_Up Page_Up &&
-          xdotool mousemove 12 75 &&
+          xdotool mousemove 16 80 &&
           xdotool keydown Alt+Ctrl click 1 &&
           xdotool keyup Alt+Ctrl &&
+          sleep 1 &&
           xdotool click 1
         """
       ]
