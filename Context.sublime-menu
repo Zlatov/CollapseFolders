@@ -2,5 +2,9 @@
   {
     "caption": "Collapse folders",
     "command": "collapse_folders"
+  },
+  {
+    "caption": "Focus Side Bar",
+    "command": "collapse_folders_focus"
   }
 ]
