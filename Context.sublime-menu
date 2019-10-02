@@ -13,6 +13,10 @@
       {
         "caption": "Open git modified",
         "command": "collapse_folders_open_git_modified"
+      },
+      {
+        "caption": "Open git modified and new",
+        "command": "collapse_folders_open_git_modified_new"
       }
     ]
   }
