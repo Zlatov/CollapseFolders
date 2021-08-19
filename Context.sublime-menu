@@ -11,10 +11,6 @@
         "command": "collapse_folders_focus"
       },
       {
-        "caption": "Find and Replace in Project",
-        "command": "collapse_folders_find_and_replace_in_project"
-      },
-      {
         "caption": "Open git modified",
         "command": "collapse_folders_open_git_modified"
       },
