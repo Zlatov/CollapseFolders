@@ -1,6 +1,8 @@
 # CollapseFolders
 
-## Install
+Тестовое расширение для Sublime text.
+
+## Установка
 
 __ST2:__
 

@@ -2,6 +2,8 @@ import sublime, sublime_plugin
 import pprint, subprocess, re
 from pprint import pprint
 
+# Сворачивает все папки проекта и ставит фокус в сайдбар, использует управление
+# мышью через xdotool.
 class CollapseFoldersCommand(sublime_plugin.TextCommand):
   def get_settings(self, key = None):
     settings = sublime.load_settings('CollapseFolders.sublime-settings')
